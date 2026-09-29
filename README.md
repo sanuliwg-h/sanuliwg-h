@@ -13,10 +13,11 @@ What I've been up to
 🤝 Co-President @ UBC SLSA
 Featured projects
 
-Project	What it is	Tools
-Spotify Data Analysis	Statistical models and visualizations exploring Spotify data	Python, R
-
-Coming soon	
+## Featured projects
+| Project | What it is | Tools |
+|---|---|---|
+| Vancouver Business Licences (SQL) | SQL analysis of City of Vancouver business licence data | SQL, SQLite |
+| Spotify Data Analysis | Statistical models and visualizations exploring Spotify data (UBC course project) | Python, R, JavaScript |
 
 Get in touch
 📧 sanuliwg@gmail.com
